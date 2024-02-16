@@ -1,2 +1,6 @@
 this is for testing pull request
+<<<<<<< HEAD
 this is for testing merge conflict
+=======
+is it affecting lines untouched by others?
+>>>>>>> 9870182ff7c6925c805e26dca0582de3b3bf1828
